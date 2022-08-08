@@ -11,7 +11,7 @@
 
 1. Las evaluaciones serán efectuadas por medio de laboratorios y participación en clases. Se calculará la nota del curso **N** como:
 
-    **N = 0,7 x L + 0,15 x C + 0,15 x P**
+    **N = 0,6 x L + 0,2 x C + 0,2 x P**
 
     Donde **L** el promedio de los laboratorios, **C** el promedio de los controles y **P** es la nota de participación.
 
