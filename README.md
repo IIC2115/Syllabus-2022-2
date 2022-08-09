@@ -6,8 +6,9 @@
 1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) 
 1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
 
-## Link Creación Repositorios
+## Creación Repositorios
 [Link Invitación](https://classroom.github.com/a/huqVZwK0)
+[Registro Cuenta Github](https://docs.google.com/forms/d/e/1FAIpQLSduAa0RQI5K-cAMf2HkFAAWIB1p7WhJknzw8_7icdkEBIVYBg/viewform?usp=sf_link)
 
 ## Evaluación
 
@@ -26,7 +27,7 @@
 
 | Instancia | Fecha         | Recursos |
 | :-:       | :-:           | :-:      |
-| Cátedra   | Lunes 08/08  | [Slides]() |
+| Cátedra   | Lunes 08/08  | [Slides](/Material%20de%20clases/00%20-%20Introducción.pdf) [Material](/Material%20de%20clases/notebooks_tutorial.ipynb) |
    
 </details>
 
@@ -89,7 +90,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 
 ## Entregas atrasadas de laboratorios
-Tienen hasta 12 horas después de la hora de entrega de los laboratorios para llenar [este formulario]() con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LX correspondiente) dentro del plazo de entrega.
+Tienen hasta 12 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfys1xbOaOnoJkxLMMy0BlwnYk2SHW6SKqHfgKYFTCxSXCS4w/viewform?usp=sf_link) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LX correspondiente) dentro del plazo de entrega.
 
 
 ## Recorrección
