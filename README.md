@@ -7,8 +7,11 @@
 1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
 
 ## Creación Repositorios
-[Link Invitación](https://classroom.github.com/a/huqVZwK0)
-[Registro Cuenta Github](https://docs.google.com/forms/d/e/1FAIpQLSduAa0RQI5K-cAMf2HkFAAWIB1p7WhJknzw8_7icdkEBIVYBg/viewform?usp=sf_link)
+Crear su repositorio
+- [Link Invitación Repositorio](https://classroom.github.com/a/huqVZwK0)
+
+Registrar cuenta de Github con su correo UC
+- [Registro Cuenta Github](https://docs.google.com/forms/d/e/1FAIpQLSduAa0RQI5K-cAMf2HkFAAWIB1p7WhJknzw8_7icdkEBIVYBg/viewform?usp=sf_link)
 
 ## Evaluación
 
