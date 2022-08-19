@@ -30,20 +30,20 @@ Registrar cuenta de Github con su correo UC
 
 | Instancia | Fecha         | Recursos |
 | :-:       | :-:           | :-:      |
-| Cátedra   | Lunes 08/08  | [Slides](/Material%20de%20clases/00%20-%20Introducción.pdf) [Material](/Material%20de%20clases/notebooks_tutorial.ipynb) |
+| Cátedra   | Lunes 08/08  | [Slides](/Material%20de%20clases/00%20-%20Introducción.pdf) [Notebooks Ejemplo](/Material%20de%20clases/notebooks_tutorial.ipynb) |
    
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 1</summary>
 
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
-| Cátedra parte a   | Fundamentos de OOP   | Jueves 18/08  | [Slides]() - [Material]() - [Ejercicio]() - [Ticket]()|
-| Cátedra parte b   | Estructuras de datos | Lunes 22/08   | |
-| Ayudantía parte b | Estructuras de datos | Jueves 25/08 | | 
-| Laboratorio 1     |                      | Lunes 29/09 a Jueves 08/09 | |
+| Cátedra parte a   | Fundamentos de OOP   | Jueves 18/08  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/01%20-%20Fundamentos%20de%20OOP.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Actividades/Actividad%20C1a.pdf)|
+| Cátedra parte b   | Estructuras de datos | Lunes 22/08   | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/02%20-%20Estructuras%20de%20datos.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/Notebooks%20Ejemplo/) - [Actividad]() |
+| Ayudantía parte b | Estructuras de datos | Jueves 25/08 | [Slides]() - [Soluciones]() | 
+| Laboratorio 1     |                      | Lunes 29/09 a Jueves 08/09 | [Enunciado]() |
 | Ayudantía Laboratorio 1 |                | Jueves 01/09 | | 
 </details>
 
@@ -73,9 +73,8 @@ Registrar cuenta de Github con su correo UC
 | Ayudantía Laboratorio 3 |                     | Jueves 27/10 | |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4</summary>
-   
 | Instancia         | Tópico                      | Fecha        | Recursos |
 | :-:               | :-:                         | :-:          | :-:      |
 | Cátedra parte a   | Bases de datos relacionales | Lunes 07/11 | |
