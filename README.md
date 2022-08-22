@@ -41,7 +41,7 @@ Registrar cuenta de Github con su correo UC
 | Instancia         | Tópico               | Fecha        | Recursos |
 | :-:               | :-:                  | :-:          | :-:      |
 | Cátedra parte a   | Fundamentos de OOP   | Jueves 18/08  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/01%20-%20Fundamentos%20de%20OOP.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Actividades/Actividad%20C1a.pdf)|
-| Cátedra parte b   | Estructuras de datos | Lunes 22/08   | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/02%20-%20Estructuras%20de%20datos.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/Notebooks%20Ejemplo/) - [Actividad]() |
+| Cátedra parte b   | Estructuras de datos | Lunes 22/08   | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/02%20-%20Estructuras%20de%20datos.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/Notebooks%20Ejemplo/) - [Control](https://docs.google.com/forms/d/e/1FAIpQLSf6v0fdKlfBuE5tHWHgsx36nNdwSONHlADRqHlvFpsbjCbGzA/viewform?usp=sf_link) - [Actividad]() |
 | Ayudantía parte b | Estructuras de datos | Jueves 25/08 | [Slides]() - [Soluciones]() | 
 | Laboratorio 1     |                      | Lunes 29/09 a Jueves 08/09 | [Enunciado]() |
 | Ayudantía Laboratorio 1 |                | Jueves 01/09 | | 
