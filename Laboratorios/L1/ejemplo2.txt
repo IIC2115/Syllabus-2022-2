@@ -1,0 +1,6 @@
+2 4
+4 extremidades,huevo amniotico
+rana,true,false
+tortuga,true,true
+caiman,true,true
+pizon,true,true

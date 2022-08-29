@@ -1,0 +1,7 @@
+5 5
+plumaje,pelaje,pulmones,molleja,mandibula
+lamprea,false,false,false,false,false
+antolope,false,true,true,false,true
+robalo,false,false,false,false,true
+aguila calva,true,false,true,true,true
+caiman,false,false,true,true,true

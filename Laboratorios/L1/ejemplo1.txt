@@ -1,0 +1,5 @@
+2 3
+mandibula,pulmones
+lamprea,false,false
+robalo,true,false
+caiman,true,true

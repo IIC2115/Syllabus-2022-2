@@ -1,0 +1,5 @@
+3 3
+plumaje,molleja,pelaje
+antilope,false,false,true
+caiman,false,true,false
+aguila calva,true,true,false
