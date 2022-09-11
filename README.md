@@ -35,7 +35,7 @@ Registrar cuenta de Github con su correo UC
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 1</summary>
 
 | Instancia         | Tópico               | Fecha        | Recursos |
@@ -48,16 +48,16 @@ Registrar cuenta de Github con su correo UC
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 2</summary>
    
 | Instancia         | Tópico                            | Fecha        | Recursos |
 | :-:               | :-:                               | :-:          | :-:      |
-| Cátedra parte a   | Análisis y visualización de datos | Lunes 12/09  | |
-| Ayudantía parte a | Análisis y visualización de datos | Jueves 15/09 | |
-| Cátedra parte b   | Modelos predictivos               | Jueves 22/09 | | 
-| Laboratorio 2     |                                   | Lunes 26/09 a Jueves 06/10 | |
-| Ayudantía Laboratorio 2 |                             | Jueves 29/09 | |
+| Cátedra parte a   | Análisis y visualización de datos | Lunes 12/09  | [Slides](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/01%20-%20Exploraci%C3%B3n%2C%20limpieza%20y%20depuraci%C3%B3n%20de%20datos.pdf) - [Notebooks Ejemplo](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Notebooks%20Ejemplo/) - [Actividad](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Actividad/) |
+| Ayudantía parte a | Análisis y visualización de datos | Jueves 15/09 |   |
+| Cátedra parte b   | Modelos predictivos               | Jueves 22/09 |  | 
+| Laboratorio 2     |                                   | Lunes 26/09 a Jueves 06/10 |  |
+| Ayudantía Laboratorio 2 |                             | Jueves 29/09 |  |
 </details>
 
 
@@ -75,16 +75,16 @@ Registrar cuenta de Github con su correo UC
 
 <details>
 <summary>Capítulo 4</summary>
+
 | Instancia         | Tópico                      | Fecha        | Recursos |
-| :-:               | :-:                         | :-:          | :-:      |
-| Cátedra parte a   | Bases de datos relacionales | Lunes 07/11 | |
+| :-:               | :-:                         | :-:          | :-: |
+| Cátedra parte a   | Bases de datos relacionales | Lunes 07/11  | |
 | Ayudantía parte a | Bases de datos relacionales | Jueves 10/11 | | 
 | Cátedra parte b   | Consultas en SQL            | Lunes 14/11  | |
 | Ayudantía parte b | Consultas en SQL            | Jueves 17/11 | | 
 | Laboratorio 4     |                             | Lunes 21/11 a Jueves 01/12 | |
 | Ayudantía Laboratorio 4 |                       | Jueves 24/10 | |
 </details>
-
 
 
 ## Notas
