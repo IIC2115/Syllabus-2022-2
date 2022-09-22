@@ -42,9 +42,9 @@ Registrar cuenta de Github con su correo UC
 | :-:               | :-:                  | :-:          | :-:      |
 | Cátedra parte a   | Fundamentos de OOP   | Jueves 18/08  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/01%20-%20Fundamentos%20de%20OOP.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20A/Actividades/Actividad%20C1a.pdf)|
 | Cátedra parte b   | Estructuras de datos | Lunes 22/08   | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/02%20-%20Estructuras%20de%20datos.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%201/Parte%20B/Notebooks%20Ejemplo/) - [Control](https://docs.google.com/forms/d/e/1FAIpQLSf6v0fdKlfBuE5tHWHgsx36nNdwSONHlADRqHlvFpsbjCbGzA/viewform?usp=sf_link) - [Actividad]() |
-| Ayudantía parte b | Estructuras de datos | Jueves 25/08 | [Slides]() - [Soluciones]() | 
-| Laboratorio 1     |                      | Lunes 29/09 a Jueves 08/09 | [Enunciado]() |
-| Ayudantía Laboratorio 1 |                | Jueves 01/09 | | 
+| Ayudantía parte b | Estructuras de datos | Jueves 25/08 | [Material](/Ayudant%C3%ADas/Cap%C3%ADtulo%201%20-%20Ayudant%C3%ADa%20parte%20B/) | 
+| Laboratorio 1     |                      | Lunes 29/09 a Jueves 08/09 | [Enunciado](/Laboratorios/L1/L1.pdf) |
+| Ayudantía Laboratorio 1 |                | Jueves 01/09 | [Material](/Ayudant%C3%ADas/Cap%C3%ADtulo%201%20-%20Ayudant%C3%ADa%20Laboratorio%201/AY2.ipynb) | 
 </details>
 
 
@@ -54,8 +54,8 @@ Registrar cuenta de Github con su correo UC
 | Instancia         | Tópico                            | Fecha        | Recursos |
 | :-:               | :-:                               | :-:          | :-:      |
 | Cátedra parte a   | Análisis y visualización de datos | Lunes 12/09  | [Slides](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/01%20-%20Exploraci%C3%B3n%2C%20limpieza%20y%20depuraci%C3%B3n%20de%20datos.pdf) - [Notebooks Ejemplo](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Notebooks%20Ejemplo/) - [Control](https://docs.google.com/forms/d/e/1FAIpQLSfpE-atJyvzRFlTYT8JToHrNSBiZXsgE_-3IYyRI-tPOFcBEw/viewform?usp=sf_link) - [Actividad](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Actividad/) |
-| Ayudantía parte a | Análisis y visualización de datos | Jueves 15/09 |   |
-| Cátedra parte b   | Modelos predictivos               | Jueves 22/09 |  | 
+| Ayudantía parte a | Análisis y visualización de datos | Jueves 15/09 |  |
+| Cátedra parte b   | Modelos predictivos               | Jueves 22/09 | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/02%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/Actividad/) | 
 | Laboratorio 2     |                                   | Lunes 26/09 a Jueves 06/10 |  |
 | Ayudantía Laboratorio 2 |                             | Jueves 29/09 |  |
 </details>
