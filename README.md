@@ -56,8 +56,8 @@ Registrar cuenta de Github con su correo UC
 | Cátedra parte a   | Análisis y visualización de datos | Lunes 12/09  | [Slides](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/01%20-%20Exploraci%C3%B3n%2C%20limpieza%20y%20depuraci%C3%B3n%20de%20datos.pdf) - [Notebooks Ejemplo](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Notebooks%20Ejemplo/) - [Control](https://docs.google.com/forms/d/e/1FAIpQLSfpE-atJyvzRFlTYT8JToHrNSBiZXsgE_-3IYyRI-tPOFcBEw/viewform?usp=sf_link) - [Actividad](Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20A/Actividad/) |
 | Ayudantía parte a | Análisis y visualización de datos | Jueves 15/09 | [Material](/Ayudant%C3%ADas/Capitulo%202%20-%20Ayudant%C3%ADa%20A/)  |
 | Cátedra parte b   | Modelos predictivos               | Jueves 22/09 | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/02%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20B/Actividad/) | 
-| Laboratorio 2     |                            | Lunes 26/09 a Jueves 06/10 |  |
-| Ayudantía Laboratorio 2 |        [Enunciado](/Laboratorios/L2/L2.pdf)        | Jueves 29/09 |  |
+| Laboratorio 2     |                            | Lunes 26/09 a Jueves 06/10 |  [Enunciado](/Laboratorios/L2/L2.pdf) |
+| Ayudantía Laboratorio 2 |               | Jueves 29/09 |  |
 </details>
 
 
