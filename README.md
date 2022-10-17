@@ -67,7 +67,7 @@ Registrar cuenta de Github con su correo UC
 | Instancia         | Tópico                    | Fecha        | Recursos |
 | :-:               | :-:                       | :-:          | :-:      |
 | Cátedra parte a   | Datos geoespaciales y SIG | Jueves 13/10 | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20A/01%20-%20An%C3%A1lisis%20de%20datos%20geoespaciales.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20A/Notebooks%20Ejemplo/) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20A/Actividad/) |
-| Cátedra parte b   | Uso de redes/grafos       | Lunes 17/10  | |
+| Cátedra parte b   | Uso de redes/grafos       | Lunes 17/10  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20B/02%20-%20Manejo%20de%20redes.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20B/Notebook%20Ejemplo/) - [Control](https://forms.gle/zZwodmVouotjtRe69) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%203/Parte%20B/Actividad/)|
 | Ayudantía parte b | Uso de redes/grafos       | Jueves 20/10 | | 
 | Laboratorio 3     |                           | Lunes 24/10 a Jueves 03/11 | |
 | Ayudantía Laboratorio 3 |                     | Jueves 27/10 | |
