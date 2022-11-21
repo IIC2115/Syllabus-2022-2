@@ -79,10 +79,10 @@ Registrar cuenta de Github con su correo UC
 | Instancia         | Tópico                      | Fecha        | Recursos |
 | :-:               | :-:                         | :-:          | :-: |
 | Cátedra parte a   | Bases de datos relacionales | Lunes 07/11  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20A/00%20-%20Introducci%C3%B3n.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20A/Notebook%20Ejemplo/) - [Control](https://forms.gle/VzvZj8AmH2YG8JHn6) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20A/Actividad/)|
-| Ayudantía parte a | Bases de datos relacionales | Jueves 10/11 | [Material](/Ayudant%C3%ADas/Cap%C3%ADtulo%204%20-%20Ayudant%C3%ADa%20A/) | 
+| Ayudantía parte a | Bases de datos relacionales | Jueves 10/11 | [Material](/Ayudant%C3%ADas/Cap%C3%ADtulo%204%20-%20Ayudant%C3%ADa%204A/) | 
 | Cátedra parte b   | Consultas en SQL            | Lunes 14/11  | [Slides](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20B/02%20-%20Consultas%20en%20SQL.pdf) - [Notebooks Ejemplo](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20B/Notebooks%20Ejemplo/) - [Control](https://forms.gle/tQsDaXsTMU119pv49) - [Actividad](/Material%20de%20clases/Cap%C3%ADtulo%204/Parte%20B/Actividad/Actividad%20C4b.pdf) |
-| Ayudantía parte b | Consultas en SQL            | Jueves 17/11 | [Material]() | 
-| Laboratorio 4     |                             | Lunes 21/11 a Jueves 01/12 | |
+| Ayudantía parte b | Consultas en SQL            | Jueves 17/11 | [Material](/Ayudant%C3%ADas/Cap%C3%ADtulo%204%20-%20Ayudant%C3%ADa%204b/) | 
+| Laboratorio 4     |                             | Lunes 21/11 a Jueves 01/12 | [Enunciado](/Laboratorios/L4/L4.pdf) |
 | Ayudantía Laboratorio 4 |                       | Jueves 24/10 | |
 </details>
 
